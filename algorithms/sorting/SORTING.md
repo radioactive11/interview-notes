@@ -23,7 +23,7 @@ Sorting algorithms can be classified by:
 | Name          | Best    | Average | Worst   | Memory | Stable | Method       |
 | ------------- | ------- | ------- | ------- | ------ | ------ | ------------ |
 | Quick         | nlogn   | nlogn   | n^2     | nlogn  | No     | Partitioning |
-| [[MERGESORT]] | nlog(n) | nlog(n) | nlog(n) | n      | Yes    | Merging      |
+| [[MERGESORT]]     | nlog(n) | nlog(n) | nlog(n) | n      | Yes    | Merging      |
 | Heap          | nlog(n) | nlog(n) | nlog(n) | 1      | No     | Selection    |
 | Insertion     | n       | n^2     | n^2     | 1      | Yes    | Insertion    |
 | Selection     | n^2     | n^2     | n^2     | 1      | Yes    | Exchanging   |
